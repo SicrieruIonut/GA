@@ -1,0 +1,10 @@
+{
+  "file": "population_float32.bin",
+  "shape": [
+    1000000,
+    10
+  ],
+  "dtype": "float32",
+  "order": "C_row_major",
+  "endianness": "little"
+}
